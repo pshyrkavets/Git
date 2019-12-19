@@ -1,5 +1,5 @@
-1
-2
+1 Update in the first line in 1.txt in git_0
+2 Update in the second line in 1.txt in git_0
 3
 4
 5
