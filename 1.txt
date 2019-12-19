@@ -1,7 +1,7 @@
-1
-2
-3
-4
+1 Update in the first line in 1.txt in git_0
+2 Update in the second line in 1.txt in git_0
+3 The third line is modified
+4 The fourth line is modified
 5
 6
 7
